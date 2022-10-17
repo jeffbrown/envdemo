@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: envdemo
+netty:
+  default:
+    allocator:
+      max-order: 3
